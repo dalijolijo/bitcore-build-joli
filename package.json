@@ -1,7 +1,7 @@
 {
   "name": "bitcore-build-joli",
   "version": "0.5.4",
-  "description": "A helper for common tasks to build bitcore-joli modules'",
+  "description": "A helper for common tasks to build bitcore j_o_l_i modules'",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
@@ -32,12 +32,12 @@
     },
     {
       "name": "Larry Ludlow",
-      "email": "larry@mymyhush.org"
+      "email": "larry@myhush.org"
     },
-        {
+    {
       "name": "The Trunk",
       "email": "tessjonesie@gmail.com"
-    }
+    },
     {
       "name": "J_O_L_I_NAME",
       "email": "J_O_L_I_EMAIL"
